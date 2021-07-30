@@ -1,0 +1,67 @@
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+    float: right;
+}
+
+.environment_li
+{
+    margin-top: 13px;
+    width: 650px;
+    margin-left: 100px;
+    
+}
+
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img
+{
+    border-radius: 25px;
+    height: 250px;
+    width: 250px;
+}
+
+.environment_li p
+{
+    margin-top: 10px;
+}
+
+.header-entrepreneur
+{
+    line-height: 2;
+}
+
+.book
+{
+    cursor: pointer;
+}
+
+.book hr{
+    margin-bottom: 10px;
+}
+
+#alumniList img{
+    height: 300px;
+    width: 230px;
+}
+
+#school_alumni1 img{
+    height: 600px;
+}
+
+
+
+
